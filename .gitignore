@@ -1,0 +1,22 @@
+# Default ignored files
+tmp/
+*_old
+Thumbs.db
+.DS_Store
+
+
+
+
+
+
+
+
+/shelf/
+/.idea/workspace.xml
+*.txt
+*.iml
+*.xml
+out/
+*html
+LitDog.iml
+Main.class
